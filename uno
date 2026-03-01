@@ -12,3 +12,6 @@ cuatro 4
 
 -archivo cinco
 cinco 5
+
+-archivo seis 
+seis 6
